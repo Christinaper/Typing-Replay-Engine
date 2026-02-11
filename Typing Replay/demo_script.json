@@ -1,0 +1,141 @@
+{
+  "actions": [
+    {
+      "type": "type",
+      "text": "# Typing Replay Engine Demo\n\n",
+      "wpm": 70
+    },
+    {
+      "type": "pause",
+      "duration": 0.5
+    },
+    {
+      "type": "type",
+      "text": "This demonstrates realistic typing simulation.\n",
+      "wpm": 65
+    },
+    {
+      "type": "pause",
+      "duration": 0.8
+    },
+    {
+      "type": "type",
+      "text": "\n## Features:\n",
+      "wpm": 70
+    },
+    {
+      "type": "pause",
+      "duration": 0.3
+    },
+    {
+      "type": "type",
+      "text": "- Variable typing speed\n",
+      "wpm": 60
+    },
+    {
+      "type": "type",
+      "text": "- Natural pauses\n",
+      "wpm": 60
+    },
+    {
+      "type": "type",
+      "text": "- Backspacing and corrections\n",
+      "wpm": 55
+    },
+    {
+      "type": "pause",
+      "duration": 0.5
+    },
+    {
+      "type": "type",
+      "text": "- Text selection and replacment",
+      "wpm": 60
+    },
+    {
+      "type": "pause",
+      "duration": 0.4
+    },
+    {
+      "type": "backspace",
+      "count": 4
+    },
+    {
+      "type": "pause",
+      "duration": 0.2
+    },
+    {
+      "type": "type",
+      "text": "ement",
+      "wpm": 60
+    },
+    {
+      "type": "pause",
+      "duration": 0.8
+    },
+    {
+      "type": "type",
+      "text": "\n\n## Example Code:\n",
+      "wpm": 70
+    },
+    {
+      "type": "pause",
+      "duration": 0.3
+    },
+    {
+      "type": "type",
+      "text": "```python\n",
+      "wpm": 80
+    },
+    {
+      "type": "type",
+      "text": "def hello(name):\n",
+      "wpm": 75
+    },
+    {
+      "type": "type",
+      "text": "    return f\"Hello, {name}!\"\n",
+      "wpm": 70
+    },
+    {
+      "type": "type",
+      "text": "```\n\n",
+      "wpm": 80
+    },
+    {
+      "type": "pause",
+      "duration": 1.0
+    },
+    {
+      "type": "type",
+      "text": "Perfect for:\n",
+      "wpm": 60
+    },
+    {
+      "type": "pause",
+      "duration": 0.3
+    },
+    {
+      "type": "type",
+      "text": "- Documentation videos\n",
+      "wpm": 55
+    },
+    {
+      "type": "type",
+      "text": "- Tutorial screencasts\n",
+      "wpm": 55
+    },
+    {
+      "type": "type",
+      "text": "- Automated demos",
+      "wpm": 55
+    },
+    {
+      "type": "pause",
+      "duration": 0.5
+    },
+    {
+      "type": "insert",
+      "text": " 🎬"
+    }
+  ]
+}

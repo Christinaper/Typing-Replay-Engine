@@ -1,0 +1,40 @@
+{
+  "actions": [
+    {
+      "type": "type",
+      "text": "Hello :smile: Welcome!",
+      "wpm": 60
+    },
+    {
+      "type": "pause",
+      "duration": 0.5
+    },
+    {
+      "type": "type",
+      "text": "\nLet me show you something :point:",
+      "wpm": 65
+    },
+    {
+      "type": "pause",
+      "duration": 0.8
+    },
+    {
+      "type": "type",
+      "text": "\nCoding is :fire: :rocket: :100:",
+      "wpm": 70
+    },
+    {
+      "type": "pause",
+      "duration": 0.5
+    },
+    {
+      "type": "backspace",
+      "count": 7
+    },
+    {
+      "type": "type",
+      "text": "awesome! :heart:",
+      "wpm": 60
+    }
+  ]
+}
